@@ -1,2 +1,2 @@
 # deep_learning
-1 hidden-layer and 2 hidden-layer is implimented on python
+Single hidden-layer and Two hidden-layer Neural network is implimented on python
